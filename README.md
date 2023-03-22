@@ -9,9 +9,9 @@
 </p>
 
 ## Downloads
-- [MacOS](https://github.com/dev-Ioannis/OC-TimeTrack/releases/download/v1.0.0/oc-1.0.0.dmg)
-- [Windows](https://github.com/dev-Ioannis/OC-TimeTrack/releases/download/v1.0.0/oc-1.0.0.exe)
-- [Linux](https://github.com/dev-Ioannis/OC-TimeTrack/releases/download/v1.0.0/oc-1.0.0.exe)
+## - [MacOS](https://github.com/dev-Ioannis/OC-TimeTrack/releases/download/v1.0.0/oc-1.0.0.dmg)
+## - [Windows](https://github.com/dev-Ioannis/OC-TimeTrack/releases/download/v1.0.0/oc-1.0.0.exe)
+## - [Linux](https://github.com/dev-Ioannis/OC-TimeTrack/releases/download/v1.0.0/oc-1.0.0.exe)
 
 
 ## Contributing
