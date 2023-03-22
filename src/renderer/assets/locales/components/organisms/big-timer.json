@@ -1,0 +1,24 @@
+{
+  "en": {
+    "started": "Timer started!",
+    "stopped": "Timer stopped!🎉",
+    "updated": "Timer updated.",
+    "deleted": "Timer deleted.",
+    "descriptionPlaceholder": "Add comment here.",
+    "delete": "Delete",
+    "confirms": {
+      "delete":  "Are you sure you want to delete without saving?"
+    }
+  },
+  "de": {
+    "started": "Timer gestartet!",
+    "stopped": "Timer gestoppt!🎉",
+    "updated": "Timer aktualisiert.",
+    "deleted": "Timer gelöscht.",
+    "descriptionPlaceholder": "Kommentar hier hinzufügen.",
+    "delete": "Löschen",
+    "confirms": {
+      "delete":  "Möchten Sie wirklich löschen, ohne zu speichern?"
+    }
+  }
+}

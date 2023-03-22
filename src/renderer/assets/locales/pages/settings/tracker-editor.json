@@ -1,0 +1,22 @@
+{
+  "en": {
+    "project": "Project",
+    "description": "Description",
+    "descriptionPlaceholder": "Description",
+    "process": "Target",
+    "processPlaceholder": "Find from working softwares. e.g.: firefox",
+    "notFound": "Not found.",
+    "add": "Add",
+    "added": "Added auto tracking"
+  },
+  "de": {
+    "project": "Projekt",
+    "description": "Beschreibung",
+    "descriptionPlaceholder": "Beschreibung",
+    "process": "Ziel",
+    "processPlaceholder": "Finden Sie aus funktionierender Software. z.B. Firefox",
+    "notFound": "Nicht gefunden.",
+    "add": "Hinzufügen",
+    "added": "Auto Tracking hinzugefügt"
+  }
+}

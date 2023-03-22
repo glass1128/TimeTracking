@@ -1,0 +1,12 @@
+{
+  "en": {
+    "trackers": "AutoTracking",
+    "powerMonitor": "PowerMonitor",
+    "licenses": "Licenses"
+  },
+  "de": {
+    "trackers": "AutomatischeVerfolgung",
+    "powerMonitor": "PowerMonitor",
+    "licenses": "Lizenzen"
+  }
+}

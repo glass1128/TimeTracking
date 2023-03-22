@@ -1,0 +1,12 @@
+{
+  "en": {
+    "title": "PowerMonitor",
+    "suspend": "Stop timer when suspend.",
+    "shutdown": "Stop timer when shutdown."
+  },
+  "de": {
+    "title": "PowerMonitor",
+    "suspend": "Stoppt den Timer beim Anhalten.",
+    "shutdown": "Stoppt den Timer beim Herunterfahren."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "en": {
+    "title": "AutoTracking",
+    "empty": "If auto tracking is added, you can times automatically between software is running",
+    "deleted": "Auto tracking deleted",
+    "delete": "Delete",
+    "add": "Add tracker",
+    "confirms": {
+      "delete": "Are you sure you want to delete?"
+    }
+  },
+  "de": {
+    "title": "AutomatischeVerfolgung",
+    "empty": "Wenn die automatische Verfolgung hinzugefügt wird, können Sie die Zeiten automatisch zwischen der Ausführung der Software festlegen",
+    "deleted": "Automatische Verfolgung gelöscht",
+    "delete": "Löschen",
+    "add": "Tracker hinzufügen",
+    "confirms": {
+      "delete":  "Sind Sie sicher, dass Sie löschen möchten?"
+    }
+  }
+}

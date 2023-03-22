@@ -1,0 +1,38 @@
+{
+  "en": {
+    "empty": "No Working Timers.",
+    "stopped": "Activity stopped.",
+    "started": "Activity started.",
+    "paused": "Activity paused.",
+    "continued": "Activity continue.",
+    "submitted": "Submit finished.",
+    "settings": "Settings",
+    "website": "Open website in browser",
+    "logout": "Logout",
+    "quit": "Quit App",
+    "nosubmit": "No screenshots and comments to submit.",
+    "confirms": {
+      "logout": "Are you sure you want to logout?",
+      "delete":  "Are you sure want to delete without saving?",
+      "exit": "Are you sure want to exit?"
+    }
+  },
+  "de": {
+    "empty": "Keine Arbeitszeitgeber.",
+    "settings": "Einstellungen",
+    "website": "Website im Browser öffnen",
+    "logout": "Ausloggen",
+    "stopped": "Die Aufgabe wurde gestoppt",
+    "started": "Die Aufgabe hat begonnen.",
+    "paused": "Die Aufgabe wurde pausiert.",
+    "continued": "Aufgabe fortgesetzt.",
+    "submitted": "Senden fertig.",
+    "quit": "App beenden",
+    "nosubmit": "Keine Screenshots und Kommentare zum Einreichen.",
+    "confirms": {
+      "logout": "Möchtest Du Dich wirklich abmelden?",
+      "delete":  "Möchtest Du das wirklich löschen?",
+      "exit": "Bist du dir sicher, dass du den OC Tracker beenden willst?"
+    }
+  }
+}
