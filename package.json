@@ -7,7 +7,7 @@
   "main": "./dist/electron/main.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dev-Ioannis/OC-TimeTrack.git"
+    "url": "git+https://github.com/"
   },
   "scripts": {
     "build": "node .electron-vue/build.js && electron-builder",
