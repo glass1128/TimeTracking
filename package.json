@@ -1,7 +1,7 @@
 {
   "name": "oc-timetracker",
   "version": "1.0.0",
-  "author": "ioannis0823 <ioannis0823@gmail.com>",
+  "author": "",
   "description": "OC TimeTracker",
   "license": "MIT",
   "main": "./dist/electron/main.js",
